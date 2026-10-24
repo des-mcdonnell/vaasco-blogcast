@@ -252,7 +252,7 @@ class Vaasco_Admin {
 		?>
 			<input type="text" class="widthLarge" name="vaasco_options[<?php echo $this->option_name . '_aws_identity_pool_id' ?>]" id="<?php echo $this->option_name . '_aws_identity_pool_id' ?>" value="<?php echo $id ?>">
 			<p class="description">
-				<?= esc_html('Enter your Amazon identity pool id. For detailed instructions on how to setup Amazon Polly, see https://github.com/des-mcdonnell/vaasco-blogcast/blob/master/instructions.pdf', 'vaasco'); ?>
+				<?= esc_html('Enter your Amazon identity pool id. For detailed instructions on how to setup Amazon Polly, see https://github.com/des-mcdonnell/vaasco-blogcast/blob/main/instructions.pdf', 'vaasco'); ?>
 			</p>
 		<?php
 	}
