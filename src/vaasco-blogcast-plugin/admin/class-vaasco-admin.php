@@ -3,7 +3,6 @@
 /**
  * The admin-specific functionality of the plugin.
  *
- * @link       http://www.vaasco.com/
  * @since      1.0.0
  *
  * @package    Vaasco
@@ -17,7 +16,7 @@
  *
  * @package    Vaasco Blogcast
  * @subpackage Vaasco/admin
- * @author     Vaasco <mail@vaasco.com>
+ * @author     Vaasco
  */
 class Vaasco_Admin {
 
@@ -253,7 +252,7 @@ class Vaasco_Admin {
 		?>
 			<input type="text" class="widthLarge" name="vaasco_options[<?php echo $this->option_name . '_aws_identity_pool_id' ?>]" id="<?php echo $this->option_name . '_aws_identity_pool_id' ?>" value="<?php echo $id ?>">
 			<p class="description">
-				<?= esc_html('Enter your Amazon identity pool id. For detailed instructions on how to setup Amazon Polly, go to https://www.vaasco.com/installation/setup-amazon-polly/', 'vaasco'); ?>
+				<?= esc_html('Enter your Amazon identity pool id. For detailed instructions on how to setup Amazon Polly, see https://github.com/des-mcdonnell/vaasco-blogcast/blob/master/instructions.pdf', 'vaasco'); ?>
 			</p>
 		<?php
 	}

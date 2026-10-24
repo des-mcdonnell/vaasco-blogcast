@@ -8,17 +8,15 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              http://www.vaasco.com/
  * @since             1.0.0
  * @package           Vaasco
  *
  * @wordpress-plugin
  * Plugin Name:       Vaasco Blogcast
- * Plugin URI:        https://www.vaasco.com
+ * Plugin URI:        https://github.com/des-mcdonnell/vaasco-blogcast
  * Description:       Vaasco Blogcast is a WordPress plugin which automatically converts categories and blog posts to playlists of audio tracks.
  * Version:           1.0.0
  * Author:            Vaasco
- * Author URI:        http://www.vaasco.com/
  * Text Domain:       vaasco
  * Domain Path:       /languages
  */

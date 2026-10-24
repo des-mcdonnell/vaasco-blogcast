@@ -6,7 +6,6 @@
  * Loads and defines the internationalization files for this plugin
  * so that it is ready for translation.
  *
- * @link       http://www.vaasco.com/
  * @since      1.0.0
  *
  * @package    Vaasco
@@ -22,7 +21,7 @@
  * @since      1.0.0
  * @package    Vaasco
  * @subpackage Vaasco/includes
- * @author     Vaasco <mail@vaasco.com>
+ * @author     Vaasco
  */
 class Vaasco_i18n {
 

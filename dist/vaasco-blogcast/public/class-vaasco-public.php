@@ -3,7 +3,6 @@
 /**
  * The public-facing functionality of the plugin.
  *
- * @link       http://www.vaasco.com/
  * @since      1.0.0
  *
  * @package    Vaasco
@@ -18,7 +17,7 @@
  *
  * @package    Vaasco
  * @subpackage Vaasco/public
- * @author     Vaasco <mail@vaasco.com>
+ * @author     Vaasco
  */
 class Vaasco_Public {
 

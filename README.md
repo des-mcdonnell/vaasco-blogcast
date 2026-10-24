@@ -8,12 +8,10 @@ The plugin is powered by Polly, an Amazon AI service that uses advanced deep lea
 
 Simply install the Vaasco Blogcast WordPress plugin and add your Amazon Polly credentials to get started. Easily configure options such as widget theme and categories to use through the WordPress admin panel.
 
-[https://www.vaasco.com/](https://www.vaasco.com/)
-
 
 ## Installation
 
-For detailed instructions on how to install and configure the Vaasco Blogcast WordPress plugin please read the instructions.pdf file in this directory or go to [https://www.vaasco.com/docs/](https://www.vaasco.com/docs/)
+For detailed instructions on how to install and configure the Vaasco Blogcast WordPress plugin please read [instructions.pdf](instructions.pdf).
 
 
 ## Structure

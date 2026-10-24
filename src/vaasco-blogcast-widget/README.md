@@ -4,8 +4,6 @@ Vaasco Blogcast allows visitors listen to your content while driving, working ou
 
 The widget is powered by Polly, an Amazon AI service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. This results in high-quality voice output and word pronunciation.
 
-[https://www.vaasco.com/](https://www.vaasco.com/)
-
 
 ## Development
 
