@@ -13,7 +13,9 @@ Simply install the Vaasco Blogcast WordPress plugin and add your Amazon Polly cr
 
 ## Demo
 
-Watch the [demo video](docs/demo.mp4) (50 seconds).
+https://github.com/user-attachments/assets/c572aff6-2d9c-481b-8de4-2eea6e94e959
+
+If the video doesn't play, download it from [docs/demo.mp4](docs/demo.mp4).
 
 
 ## Installation
