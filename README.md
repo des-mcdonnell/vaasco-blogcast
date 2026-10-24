@@ -1,5 +1,8 @@
 # Vaasco Blogcast
 
+> [!WARNING]
+> This project is no longer maintained. It was built in 2017 and is kept here for reference. Issues and pull requests won't be reviewed.
+
 Vaasco Blogcast is a WordPress plugin which automatically converts categories and blog posts to playlists of audio tracks.
 
 ![Vaasco Blogcast widget playing a playlist of blog posts](docs/screenshot.png)
@@ -51,6 +54,9 @@ Contains the JavaScript code for the Vaasco Blogcast widget
 More info: `/src/vaasco-blogcast-widget/README.md`
 
 ## Development
+
+> [!NOTE]
+> The build uses gulp 3, which doesn't run on Node 12 or later. It fails with `ReferenceError: primordials is not defined`. To run the gulp tasks, use Node 10 (for example, `nvm use 10`). The build hasn't been updated to gulp 4 or later.
 
 Run the following commands and tasks to load dependencies and build the project:
 
