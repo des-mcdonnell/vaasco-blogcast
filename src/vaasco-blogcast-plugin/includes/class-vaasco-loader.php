@@ -3,7 +3,6 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link       http://www.vaasco.com/
  * @since      1.0.0
  *
  * @package    Vaasco
@@ -19,7 +18,7 @@
  *
  * @package    Vaasco
  * @subpackage Vaasco/includes
- * @author     Vaasco <mail@vaasco.com>
+ * @author     Vaasco
  */
 class Vaasco_Loader {
 

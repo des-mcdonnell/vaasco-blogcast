@@ -8,8 +8,7 @@
  * @since      1.0.0
  * @package    Vaasco
  * @subpackage Vaasco/includes
- * @author     Vaasco <mail@vaasco.com>
- * @link       http://www.vaasco.com/
+ * @author     Vaasco
  */
 class Vaasco_Activator {
 
