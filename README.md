@@ -4,12 +4,6 @@ Vaasco Blogcast is a WordPress plugin which automatically converts categories an
 
 ![Vaasco Blogcast widget playing a playlist of blog posts](docs/screenshot.png)
 
-## Demo
-
-https://github.com/user-attachments/assets/c572aff6-2d9c-481b-8de4-2eea6e94e959
-
-If the video doesn't play, download it from [docs/demo.mp4](docs/demo.mp4).
-
 Vaasco Blogcast allows visitors listen to your content while driving, working out and in other handfree environments. It also makes your content accessible to users with visual impairments and motor disabilities.
 
 The plugin is powered by Polly, an Amazon AI service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. This results in high-quality voice output and word pronunciation.
@@ -17,6 +11,11 @@ The plugin is powered by Polly, an Amazon AI service that uses advanced deep lea
 Simply install the Vaasco Blogcast WordPress plugin and add your Amazon Polly credentials to get started. Easily configure options such as widget theme and categories to use through the WordPress admin panel.
 
 [https://www.vaasco.com/](https://www.vaasco.com/)
+
+
+## Demo
+
+Watch the [demo video](docs/demo.mp4) (50 seconds).
 
 
 ## Installation
